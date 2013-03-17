@@ -2,7 +2,7 @@
 
 ###
 #
-# FAV2SAFARI
+# fav2safari
 # Converts Internet Explorer Favorites bookmarks from .url files to a .htm file that can be imported into Safari.
 #
 # By Josh Lapham [josh@joshlapham.com]

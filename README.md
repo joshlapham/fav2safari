@@ -1,4 +1,4 @@
-# FAV2SAFARI
+# fav2safari
 
 By Josh Lapham [josh@joshlapham.com]
 
